@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gschool-parent/gschool-common/common-utils/common-utils.iml" filepath="$PROJECT_DIR$/gschool-parent/gschool-common/common-utils/common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gschool.iml" filepath="$PROJECT_DIR$/.idea/gschool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gschool-parent/gschool-common/gschool-common.iml" filepath="$PROJECT_DIR$/gschool-parent/gschool-common/gschool-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gschool-parent/gschool-parent.iml" filepath="$PROJECT_DIR$/gschool-parent/gschool-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gschool-parent/gschool-service/gschool-service.iml" filepath="$PROJECT_DIR$/gschool-parent/gschool-service/gschool-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus.iml" filepath="$PROJECT_DIR$/mybatis-plus/mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gschool-parent/gschool-common/service-base/service-base.iml" filepath="$PROJECT_DIR$/gschool-parent/gschool-common/service-base/service-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gschool-parent/gschool-service/service-cms/service-cms.iml" filepath="$PROJECT_DIR$/gschool-parent/gschool-service/service-cms/service-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gschool-parent/gschool-service/service-edu/service-edu.iml" filepath="$PROJECT_DIR$/gschool-parent/gschool-service/service-edu/service-edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gschool-parent/gschool-service/service-msm/service-msm.iml" filepath="$PROJECT_DIR$/gschool-parent/gschool-service/service-msm/service-msm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gschool-parent/gschool-service/service-oss/service-oss.iml" filepath="$PROJECT_DIR$/gschool-parent/gschool-service/service-oss/service-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gschool-parent/gschool-service/service-ucenter/service-ucenter.iml" filepath="$PROJECT_DIR$/gschool-parent/gschool-service/service-ucenter/service-ucenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gschool-parent/gschool-service/service-video/service-video.iml" filepath="$PROJECT_DIR$/gschool-parent/gschool-service/service-video/service-video.iml" />
+    </modules>
+  </component>
+</project>
